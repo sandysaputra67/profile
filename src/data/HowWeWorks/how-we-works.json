@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Mengetahui Solusi",
+    "text": "Mengenali studi kasus permintaan terkait masalah atau peningkatan layanan kinerja",
+    "icon": "service/icon/strategy.png"
+  },
+  {
+    "id": 2,
+    "title": "Draft Permintaan",
+    "text": "Pembuatan Draft Bisnis Requirement Dokument (BRD) untuk memprediksikan kapan project akan selesai",
+    "icon": "service/icon/track-record.png"
+  },
+  {
+    "id": 3,
+    "title": "Research & Investigation",
+    "text": "Pembuatan Prototype, Build, Testing, dan Deployment",
+    "icon": "service/icon/research.png"
+  },
+  {
+    "id": 4,
+    "title": "Maintenance",
+    "text": "Pelaporan hasil dan analisis keamanan data serta pengembangan pengalaman pengguna sesuai batas waktu yang telah disepakati",
+    "icon": "service/icon/analysis.png"
+  }
+]

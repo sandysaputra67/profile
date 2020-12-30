@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "title": "Business Training",
+    "shortDesc": "Untuk para pebisnis bagaimana teknik mengembangkan dan meningkatkan omzet bisnis Go-Digital.",
+    "thumb": "service/01.jpg",
+    "previewImages": [
+      "service/details/01.jpg",
+      "service/details/02.jpg",
+      "service/details/03.jpg"
+    ],
+    "aboutServiceDesc": "<p>Kami memberikan pelatihan bisnis untuk para pengusaha dalam upaya meningkatkan omzet melalui media online dan membantu efektifitas layanan bisnis.</p><p>Adapun beberapa fasilitas yang akan didapatkan:",
+    "features": [
+      "Membantu proses perizinan gratis khusus untuk Usaha Mikro Kecil (UMK)",
+      "Pembuatan platform aplikasi layanan bisnis"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Digital Solutions",
+    "shortDesc": "Menerima Jasa Pembuatan Platform Website, Perancangan Aplikasi Android & IOS, dan Jasa Digital lainnya.",
+    "thumb": "service/03.jpg",
+    "previewImages": [
+      "service/details/01.jpg",
+      "service/details/02.jpg",
+      "service/details/03.jpg"
+    ],
+    "aboutServiceDesc" : "<p>Kami menerima jasa pembuatan platform layanan bisnis anda dengan cepat dan berkualitas berdasarkan permintaan (Requirement) tepat waktu.</p> <p>Layanan ini merupakan layanan utama kami dalam upaya membantu memecahkan solusi kinerja yang kurang efektif seperti rumitnya management data pelanggan anda, management dokumen resmi, dan lain-lain.</p><p>Adapun fasilitas yang akan didapatkan:</p>",
+    "features": [
+      "Maintenance Platform Terkait Keamanan dan Perbaikan User Interface",
+      "Promosi platform (Bersifat Optional)",
+      "Integrasi Kemampuan Offline (Offline Capabilities) untuk backup data secara otomatis"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Marketing Solutions",
+    "shortDesc": "Solusi terbaik mempromosikan bisnis anda untuk menjangkau target market yang lebih luas dan tertarget secara spesifik.",
+    "thumb": "service/05.jpg",
+    "previewImages": [
+      "service/details/01.jpg",
+      "service/details/02.jpg",
+      "service/details/03.jpg"
+    ],
+    "aboutServiceDesc":"<p>Kami membantu mengurus segala hal yang berkaitan dengan promosi produk dan layanan bisnis anda seperti pembuatan platform website resmi, promosi media sosial, design banner, design produk, copywriting dan lain-lain.</p><p>Adapun beberapa fasilitas secara umum yang akan didapatkan:</p>",
+    "features": [
+      "Pembuatan Website Company Profile",
+      "Pembuatan Design Logo Perusahaan",
+      "Pembuatan Akun Social Media",
+      "Pembuatan Design Promosi Produk",
+      "Pembuatan Template Design Utility berformat pdf, jpg, svg, dan psd",
+      "Pembuatan Video Promosi",
+      "Promosi Produk dan Layanan"
+    ]
+  }
+  
+]

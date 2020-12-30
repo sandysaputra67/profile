@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "planName": "Custom Requests",
+    "currencyType": "$",
+    "planPrice": "xxx",
+    "subscribePlan": "mo",
+    "planFeatures": [
+      "Pembuatan Website dan Aplikasi",
+      "Branding strategy identity",
+      "Content development",
+      "Marketing Campaign & Promotion"
+    ]
+  },
+  {
+    "id": 2,
+    "planName": "Small Business",
+    "currencyType": "$",
+    "planPrice": "120",
+    "subscribePlan": "mo",
+    "planFeatures": [
+      "Pembuatan Website dan Aplikasi",
+      "Branding strategy identity",
+      "Marketing Campaign & Promotion",
+      "Content Development"
+    ]
+  },
+  {
+    "id": 3,
+    "planName": "Professional",
+    "currencyType": "$",
+    "planPrice": "200",
+    "subscribePlan": "mo",
+    "planFeatures": [
+      "Pembuatan Website dan Aplikasi",
+      "Content Development",
+      "Branding strategy identity",
+      "Marketing campaign & Promotion"
+    ]
+  }
+]

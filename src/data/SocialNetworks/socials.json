@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "networkName": "facebook",
+    "username": "arkanaputra"
+  },
+  {
+    "id": 2,
+    "networkName": "twitter",
+    "username": "arkanaputra"
+  },
+  {
+    "id": 3,
+    "networkName": "linkedin",
+    "username": "arkanaputra"
+  },
+  {
+    "id": 4,
+    "networkName": "pinterest",
+    "username": "arkanaputra"
+  }
+]
